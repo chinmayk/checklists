@@ -1,6 +1,5 @@
-BEFORE SUBMITTING PAPER, Ensure
+BEFORE SUBMITTING PAPER
 
-+ All authors have the right spelling, email addresses
-+ Search and replace TODO
++ Search and replace TODOs and FIXMEs.
 + Run spell-check on entire document
 
