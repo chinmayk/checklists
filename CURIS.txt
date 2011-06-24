@@ -25,6 +25,7 @@ and then work collaboratively on a summer plan (NOTE: you should
 already have a plan, but working on this with student will help them
 take ownership. For better transparency, have the students produce a
 poster-sized calendar and hang it in their work area.)
+- have all CURIS students write down a few notes about what they hope to get out of CURIS.
 - day two: get your students to setup shared calendars and docs, svn
 repositories, etc as necessary for your project
 - be there everyday. (Tip:  Meet your students from 10-11a each
