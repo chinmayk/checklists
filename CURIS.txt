@@ -1,0 +1,36 @@
+Matching with a CURIS student:
+- encourage fellow PhD students to submit CURIS project descriptions
+(and submit your own)
+- interview CURIS candidates (15 minutes is usually enough time)
+- choose your best candidate (you and the student should pick highest
+priority for the CURIS matching algorithm)
+- after you are matched with a student, get them to commit by email
+(have them send a photo and post it on the HCI website)
+- arrange a time to meet during spring quarter to plan for the summer
+>
+Pre-summer preparation:
+- compile a list of all participating CURIS and PhD students
+- encourage fellow PhD students to outline detailed plans for the
+summer (and do the same for your own projects)
+- schedule a date for a CURIS kickoff event (best if this occurs
+within the first week of summer)
+- email your own CURIS students and setup a time/place to start their
+internships.
+- organize the kickoff event (Options:  BBQ on the AT&T patio, picnic
+at a local park, mini-golf outing, etc.)
+>
+During the summer:
+- day one: meet your students, describe the high-level research goals,
+and then work collaboratively on a summer plan (NOTE: you should
+already have a plan, but working on this with student will help them
+take ownership. For better transparency, have the students produce a
+poster-sized calendar and hang it in their work area.)
+- day two: get your students to setup shared calendars and docs, svn
+repositories, etc as necessary for your project
+- be there everyday. (Tip:  Meet your students from 10-11a each
+morning and make a plan for that day.)
+>
+Towards the end of summer
+- schedule an August Weds lunch for students to present their projects
+- help students with their CURIS posters and attend the event
+- persuade Scott to have an end-of-summer party at his house
